@@ -3,6 +3,8 @@ A single-page résumé template done purely with HTML and CSS, which can be rend
 
 As the résumé is purely typeset with HTML and CSS, it's highly customizable (e.g. if you want an "objective" section, just copy-paste a few HTML elements) and does not require proprietary software. All you need is a text editor and a web browser (see compatibility section below). Oh, maybe some intermediate CSS knowledge. And, since it's open source with Apache License, you're allowed (and encouraged!) to create your own fine-tuned template and share with others.
 
+Find the background story of this project at [my blog] (http://blogs.purincess.tw/matrixblog/2016/04/typesetting-resume-with-html-and-css/).
+
 # Compatibility and Known Issues/Limitations
 * I have only tested this project on latest release version of Firefox (45) and Google Chrome (49) on OS X 10.11 (El Capitan).
 * It's my intention to support other browsers/platforms (like IE Edge on Windows?) as long as the browser sufficiently supports the required CSS features: ``calc()``, ``var()``, ``flexbox``, ...etc, and does not require (too many) dirty tricks. PRs or comments welcome!
