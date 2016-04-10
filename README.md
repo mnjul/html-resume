@@ -1,12 +1,14 @@
 # html-resume
-A single-page résumé template done purely with HTML and CSS, which can be rendered into PDF by web browsers, making a nice, sleek, professsional and ready-to-print résumé. See my living example at: http://mnjul.net/cv/resume.pdf
+A single-page résumé template done purely with HTML and CSS, which can be rendered into PDF through web browsers' print-to-PDF functionality, making a nice, sleek, professsional and ready-to-print résumé. See my living example at: http://mnjul.net/cv/resume.pdf
 
 As the résumé is purely typeset with HTML and CSS, it's highly customizable (e.g. if you want an "objective" section, just copy-paste a few HTML elements) and does not require proprietary software. All you need is a text editor and a web browser (see compatibility section below). Oh, maybe some intermediate CSS knowledge. And, since it's open source with Apache License, you're allowed (and encouraged!) to create your own fine-tuned template and share with others.
 
-# Compatibility and Known Issues
+# Compatibility and Known Issues/Limitations
 * I have only tested this project on latest release version of Firefox (45) and Google Chrome (49) on OS X 10.11 (El Capitan).
 * It's my intention to support other browsers/platforms (like IE Edge on Windows?) as long as the browser sufficiently supports the required CSS features: ``calc()``, ``var()``, ``flexbox``, ...etc, and does not require (too many) dirty tricks. PRs or comments welcome!
+* **No hyperlinking functionality in rendered PDF** as browers's print-to-PDF process is merely "flattening to digital paper".
 * It appears that Google Chrome doesn't show the customized bullet points for the first-column items in two-column lists as in the ``concise`` block (in the example file, the last block of the Education section). You may work around this by reverting back to using built-in ``list-style-type``, or just don't use the two-column lists.
+* Other browser-specific hacks are as commented in the code.
 
 # Fonts, Icon Fonts, and Dependencies
 * [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) and [Source Sans Pro](https://www.google.com/fonts/specimen/Source+Sans+Pro) are used at various weights, but are not included in this repository. Please follow the links to download the fonts onto your computer.
