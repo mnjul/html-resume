@@ -26,7 +26,7 @@ Find the background story of this project at [my blog] (http://blogs.purincess.t
 * On Firefox:
   * You probably need to remove any page margins in **about:config**.
   * Uncheck **Ignore Scaling and Shrink To Fit Page Width**.
-  * Check **Print Background Images**.
+  * Check **Print Background Colors**.
   * Clear out the headers and footers.
   * Save as PDF.
 * On Google Chrome:
