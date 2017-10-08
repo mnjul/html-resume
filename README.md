@@ -3,7 +3,7 @@ A single-page résumé template done purely with HTML and CSS, which can be rend
 
 As the résumé is purely typeset with HTML and CSS, it's highly customizable (e.g. if you want an "objective" section, just copy-paste a few HTML elements) and does not require proprietary software. All you need is a text editor and a web browser (see compatibility section below). Oh, maybe some intermediate CSS knowledge. And, since it's open source with Apache License, you're allowed (and encouraged!) to create your own fine-tuned template and share with others.
 
-Find the background story of this project at [my blog] (http://blogs.purincess.tw/matrixblog/2016/04/typesetting-resume-with-html-and-css/).
+Find the background story of this project at [my blog](http://blogs.purincess.tw/matrixblog/2016/04/typesetting-resume-with-html-and-css/).
 
 # Compatibility and Known Issues/Limitations
 * I have only tested this project on latest release version of Firefox (56 as of writing) and Google Chrome (61) on macOS 10.13 (High Sierra).
@@ -13,8 +13,8 @@ Find the background story of this project at [my blog] (http://blogs.purincess.t
 
 # Fonts, Icon Fonts, and Dependencies
 * [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) and [Source Sans Pro](https://www.google.com/fonts/specimen/Source+Sans+Pro) are used at various weights, but are not included in this repository. Please follow the links to download the fonts onto your computer.
-* Icons from [Font Awesome] (https://fortawesome.github.io/Font-Awesome/) are used and are incorporated as a git submodule in this repository.
-* [Normalize.css] (https://necolas.github.io/normalize.css/) is used and is incorporated as a git submodule in this repository.
+* Icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome/) are used and are incorporated as a git submodule in this repository.
+* [Normalize.css](https://necolas.github.io/normalize.css/) is used and is incorporated as a git submodule in this repository.
 
 # Paper Size/Orientation
 * Currently letter portrait only. PRs welcome for other paper sizes --- especially A4!
