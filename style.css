@@ -173,7 +173,7 @@ li{
   display: block;
 }
 
-.date span:first-child::after{
+.date span:nth-child(2)::before{
   position: relative;
   top: 1pt;
   right: 5.5pt;
