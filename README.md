@@ -6,10 +6,9 @@ As the résumé is purely typeset with HTML and CSS, it's highly customizable (e
 Find the background story of this project at [my blog] (http://blogs.purincess.tw/matrixblog/2016/04/typesetting-resume-with-html-and-css/).
 
 # Compatibility and Known Issues/Limitations
-* I have only tested this project on latest release version of Firefox (45) and Google Chrome (49) on OS X 10.11 (El Capitan).
+* I have only tested this project on latest release version of Firefox (56 as of writing) and Google Chrome (61) on macOS 10.13 (High Sierra).
 * It's my intention to support other browsers/platforms (like IE Edge on Windows?) as long as the browser sufficiently supports the required CSS features: ``calc()``, ``var()``, ``flexbox``, ...etc, and does not require (too many) dirty tricks. PRs or comments welcome!
 * **No hyperlinking functionality in rendered PDF** as browers's print-to-PDF process is merely "flattening to digital paper".
-* It appears that Google Chrome doesn't show the customized bullet points for the first-column items in two-column lists as in the ``concise`` block (in the example file, the last block of the Education section). You may work around this by reverting back to using built-in ``list-style-type``, or just don't use the two-column lists.
 * Other browser-specific hacks are as commented in the code.
 
 # Fonts, Icon Fonts, and Dependencies
@@ -21,7 +20,7 @@ Find the background story of this project at [my blog] (http://blogs.purincess.t
 * Currently letter portrait only. PRs welcome for other paper sizes --- especially A4!
 
 # Actually Rendering the PDF
-* Again...I've only tried on the said version of Firefox & Chrome, on OS X.
+* Again...I've only tried on the said version of Firefox & Chrome, on macOS.
 * Just open the HTML file with the browser. No need to serve the document from any kind of web server --- the ``file:///`` protocol should be good enough.
 * On Firefox:
   * You probably need to remove any page margins in **about:config**.
