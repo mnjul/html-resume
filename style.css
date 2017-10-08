@@ -18,7 +18,7 @@
 
   /* XXX: using px for very good precision control */
   --decorator-outer-offset-top: 10px;
-  --decorator-outer-offset-left: -5px;
+  --decorator-outer-offset-left: -5.5px;
   --decorator-border-width: 1px;
   --decorator-outer-dim: 9px;
   --decorator-border: 1px solid #ccc;
@@ -232,6 +232,7 @@ li{
 .details{
   flex: 1 0 0;
   padding-left: var(--decorator-horizontal-margin);
+  padding-top: calc(var(--row-blocks-padding-top) - 0.5pt) !important; /* not sure why but this is needed for better alignment */
 }
 
 .details header{
