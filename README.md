@@ -12,7 +12,7 @@ Find the background story of this project at [my blog](https://blogs.purincess.t
 * Other browser-specific hacks are as commented in the code.
 
 # Fonts, Icon Fonts, and Dependencies
-* [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) and [Source Sans Pro](https://www.google.com/fonts/specimen/Source+Sans+Pro) are used at various weights, but are not included in this repository. Please follow the links to download the fonts onto your computer.
+* [Open Sans](https://www.google.com/fonts/specimen/Open+Sans), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) and [Source Sans Pro](https://www.google.com/fonts/specimen/Source+Sans+Pro) are used at various weights, but are not included in this repository. Please follow the links to download the fonts onto your computer.
 * Icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome/) are used and are incorporated as a git submodule in this repository.
 * [Normalize.css](https://necolas.github.io/normalize.css/) is used and is incorporated as a git submodule in this repository.
 
