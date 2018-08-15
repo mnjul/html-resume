@@ -33,7 +33,7 @@ body{
   width: var(--page-width);
   height: var(--page-height);
   margin: 0;
-  font-family: "Open Sans", sans-serif; 
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
   line-height: 1.3;
   color: #444;
@@ -244,7 +244,7 @@ li{
 }
 
 .main-block:not(.concise) .details div{
-  margin: 0.18in 0 0.1in 0; 
+  margin: 0.18in 0 0.1in 0;
 }
 
 .main-block:not(.concise) .blocks:last-child .details div{
@@ -325,7 +325,7 @@ li{
 }
 
 .side-block{
-  margin-top: 0.5in; 
+  margin-top: 0.5in;
 }
 
 #contact ul{
@@ -341,11 +341,11 @@ li{
   text-align: right;
 }
 
-#skills{
+.skills{
   line-height: 1.5;
 }
 
-#skills ul{
+.skills ul{
   margin: 0.05in 0 0.15in;
   padding: 0;
 }
