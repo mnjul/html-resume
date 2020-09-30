@@ -30,11 +30,11 @@
 }
 
 body{
-  width: var(--page-width);
-  height: var(--page-height);
-  margin: 0;
+  width: auto;
+  height: auto;
+  margin: auto;
   font-family: "Open Sans", sans-serif; 
-  font-weight: 300;
+  font-weight: 600;
   line-height: 1.3;
   color: #444;
   hyphens: auto;
@@ -92,7 +92,7 @@ li{
 }
 
 .subtitle{
-  font-size: 8pt;
+  font-size: 15pt;
 }
 
 /*** categorial blocks ***/
