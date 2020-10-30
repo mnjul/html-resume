@@ -31,6 +31,7 @@ Set Margin to None.
 Print Background Graphics.
 Don't print headers and footers.
 Save as PDF.
+
 Footnotes and License
 If you ever print out the rendered PDF, make sure texts are not clipped off, or items have not unexpectedly shrunk. Additionally, since the PDF has no margin outside the shaded sidebar, while most printers have no-print areas, the shaded sidebar probably won't fill up to the page's edge when printed.
 This project is licensed under the Apache License.
