@@ -370,6 +370,15 @@ li{
   padding: 0;
 }
 
+#hobbies{
+  line-height: 1.5;
+}
+
+#hobbies ul{
+  margin: 0.05in 0 0.15in;
+  padding: 0;
+}
+
 #disclaimer{
   position: absolute;
   bottom: var(--sidebar-horizontal-padding);
