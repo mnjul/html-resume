@@ -1,0 +1,106 @@
+
+| CURRICULUM VITAE
+
+| Volodymyr Stoiko
+| Site Reliability Engineer
+
+
+|-------------- General information -------------|------- Languages --------| 
+| * Date of birth: 10 June 1990                  |  * Ukrainian (native)    |
+| * Email: core.hor@gmail.com                    |  * Russian (near-native) |
+| * Mobile phone: +380 97 837-15-88              |  * English (high level)  |
+| * Skype: core_st                               |  * Spanish (basic level) |
+|------------------------------------------------|--------------------------|
+
+
+|----------------------------- Education -----------------------------------|
+| * 2011 - 2012:                                                            |
+|      Ternopil Ivan Puluj National Technical University.                   |
+|      Degree of Magister in Computer Science, specialty System analyst     |
+| * 2007 - 2011:                                                            |
+|      Ternopil Ivan Puluj National Technical University.                   |
+|      Degree of Bachelor in Computer Science with honors.                  |
+| * 1996 - 2007:                                                            |
+|      Horostkiv school gymnasium                                           |
+|---------------------------------------------------------------------------|
+   
+                                                                                                                                          
+|--------------------------- Experience ------------------------------------|
+| * 2017 - present time: Giant Swarm GmbH - Site reliability engineer       |
+|     - Automating infrastructure deployment (terraform/internal            |
+|       tooling written in golang)                                          |
+|     - Development of the managed Kubernetes in AWS/Azure/On-premise       |
+|       (baremetal and KVM based environments with nested virtualization)   |
+|     - Release process development for microservice oriented architecture  |
+|     - Technical support (network/storages configuration as part of        |
+|       product requirements, customer workloads in Kubernetes)             |
+|                                                                           |
+| * 2016 - 2017: Mirantis, Inc. - Deployment engineer                       |
+|     - OpenStack deployment and configuration                              |
+|     - Fuel plugin development (python/puppet)                             |
+|     - KVM performance tuning                                              |
+|     - OpenStack customer-oriented services development                    |
+|       (python/golang/docker/kubernetes/glusterfs/elasticsearch/ansible)   |
+|                                                                           |
+| * 2015 - 2016: GlobalLogic Ukraine - DevOps engineer                      |
+|     - Release management                                                  | 
+|     - Management of integration, staging and production environments      |
+|     - Automated provisioning with Ansible                                 |
+|     - Development of the deployment process for customer product          |
+|       (API with Flask, deployment automation with bash&python scripts)    |
+|                                                                           |
+| * 2015 - 2016: Self-employed - DevOps consulting                          |
+|     - Implementation of the CI/CD on the AWS for the development team     |
+|       on the project, related to sharing of the media content             |
+|       (Java Spring application)                                           |
+|     - Implementation of the CI/CD on the IBM Bluemix                      |
+|       (automated deployment of the development/staging environments       |
+|       for the Node.JS/MongoDB application with API testing and reporting) |
+|                                                                           |
+| * 2012 - 2015: Sumitomo Electric Bordnetze Ukraine - IT system engineer   |
+|     - LAN (configuring port-security, STP, VLANs on cisco equipment)      |
+|     - WLAN (configuring wireless controllers, access points)              |
+|     - Samba, Active Directory (users, PC and printers management,         |
+|       file-sharing, group policies)                                       |
+|     - Virtualization (infrastructure based on VMWare vSphere)             |
+|                                                                           |
+| * 2012 - 2013: Sumitomo Electric Bordnetze GmbH - Domino administrator    |
+|     - IBM Domino clusters setup and configuration                         |
+|     - Policy configuration                                                |
+|     - Application server administration                                   |
+|                                                                           |
+| * 2013 - 2014: Sumitomo Electric Bordnetze GmbH - Lotus Notes developer   |
+|     - Native IBM Domino applications (Java, LotusScript)                  |
+|     - XPages web-applications (Java/JavaScript)                           |
+|                                                                           |
+| * 2014 - 2015: Sumitomo Electric Bordnetze Gmbh - database administrator  |
+|     - Setup and administration cluster solutions for MySQL(Percona        |
+|       XtraDB Cluster) and MS SQL (mirroring)                              |
+|     - Monitoring tools (Nagios, Sensu/Uchiwa)                             |                                                         
+|     - Tomcat webservers administration (on Amazon EC2 with ELB            |
+|       and MySQL databases on Amazon RDS)                                  |
+|     - Analyzing error and performance logs with Splunk                    |                                                         
+|     - Installation, configuration and administration of Apache CloudStack |
+|       platform with Xen hypervisors.                                      |
+|     - Configuration Solr search engine with SQL databases.                |
+|     - Creating documentation for DB services                              |
+|     - Providing guarantee uptime due to SLA                               |
+|---------------------------------------------------------------------------|
+ 
+|-------- Professional strengths --------|------------- Hobbies ------------| 
+| * Management and organizational skills |  * Sports football, basketball   |
+| * Analytical skills                    |  * Playing on violin and guitar  |
+| * Goal oriented, dedicated and precise |  * Blogging                      |
+| * Ability to handle multiple tasks     |  * Writing poems                 |
+|----------------------------------------|----------------------------------|
+
+|------------------- Trainings and certifications --------------------------|
+| * AWS Advanced Networking Specialist certified (Dec 2020)                 |
+| * ITIL V3 Foundation certified                                            |
+| * VMware VCA-DCV                                                          |
+| * Cisco CCNA Routing and Switching (passed in December 2014)              |
+| * IBM Lotus Domino 8.5 System Administration Fundamentals                 |
+| * Managing IBM Lotus Domino 8.5 Servers and Users                         |
+| * Creating a XPages Application in IBM Lotus Notes 8.5.x                  |
+|---------------------------------------------------------------------------|
+
