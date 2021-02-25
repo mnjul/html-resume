@@ -40,7 +40,7 @@ body{
   margin: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.15;
   color: #444;
   hyphens: auto;
 }
@@ -57,18 +57,18 @@ li{
 #main{
   float: left;
   width: var(--main-width);
-  padding: 0.25in 0.25in 0 0.25in;
-  font-size: 9pt;
+  padding: 0.18in 0.18in 0 0.18in;
+  font-size: 10pt;
 }
 
 #sidebar{
   float: right;
   position: relative; /* for disclaimer */
   width: var(--sidebar-width);
-  height: 129%;
+  height: 127%;
   padding: 0.6in var(--sidebar-horizontal-padding);
   background-color: #f2f2f2;
-  font-size: 10.5pt;
+  font-size: 11pt;
 }
 
 /* main */
@@ -232,7 +232,7 @@ li{
 }
 
 .blocks:last-child .decorator{ /* slightly shortens it */
-  margin-bottom: 0.25in;
+  margin-bottom: 0.1in;
 }
 
 /***** fine-tunes on the details block where the real juice is *****/
