@@ -21,7 +21,7 @@ Find the background story of this project at [my blog](https://blogs.purincess.t
 
 # Actually Rendering the PDF
 * Again...I've only tried on the said version of Firefox & Chrome, on macOS.
-* Just open the HTML file with the browser. No need to serve the document from any kind of web server --- the ``file:///`` protocol should be good enough.
+* Just open the HTML file with the browser. No need to serve the document from any kind of web server --- the ``file:///`` protocol should be good enough to understand.
 * On Firefox:
   * You probably need to remove any page margins in **about:config**.
   * Uncheck **Ignore Scaling and Shrink To Fit Page Width**.
